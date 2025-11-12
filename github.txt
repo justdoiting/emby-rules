@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/ou
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/ts-sf/fly/refs/heads/main/clash
-https://raw.githubusercontent.com/VPNforWindowsSub/configs/refs/heads/master/sub/sub_merge.yml
+https://raw.githubusercontent.com/VPNforWindowsSub/configs/refs/heads/master/sub/sub_merge_base64.txt
 https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix
 https://raw.githubusercontent.com/fansiphone/pachong-tom/refs/heads/master/list.txt
 https://raw.githubusercontent.com/Supprise0901/Fetch/refs/heads/main/list
