@@ -28,3 +28,5 @@ https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/ATang007ZH/freenode/refs/heads/main/freenode-base64
 https://raw.githubusercontent.com/jayh001/sub_merge/6cccbd72e9806328518aa8de5cbf032bcfd09143/sub/merged_proxies_6.yaml
 https://raw.githubusercontent.com/wangyingbo/v2rayse_sub/refs/heads/main/v2rayclashnodes/v2ray/v2rayclashnodes_v2ray1.txt
+https://raw.githubusercontent.com/OpenSourceVision/NODE/refs/heads/main/out/all.txt
+https://raw.githubusercontent.com/CciniSix/CciniSix.github.io/refs/heads/main/vpn/ccini.yaml
