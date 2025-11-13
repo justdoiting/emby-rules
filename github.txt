@@ -30,3 +30,4 @@ https://raw.githubusercontent.com/jayh001/sub_merge/6cccbd72e9806328518aa8de5cbf
 https://raw.githubusercontent.com/wangyingbo/v2rayse_sub/refs/heads/main/v2rayclashnodes/v2ray/v2rayclashnodes_v2ray1.txt
 https://raw.githubusercontent.com/OpenSourceVision/NODE/refs/heads/main/out/all.txt
 https://raw.githubusercontent.com/CciniSix/CciniSix.github.io/refs/heads/main/vpn/ccini.yaml
+https://raw.githubusercontent.com/xujw3/collectSub/refs/heads/main/config_v2.txt
