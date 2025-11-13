@@ -31,3 +31,4 @@ https://raw.githubusercontent.com/wangyingbo/v2rayse_sub/refs/heads/main/v2raycl
 https://raw.githubusercontent.com/OpenSourceVision/NODE/refs/heads/main/out/all.txt
 https://raw.githubusercontent.com/CciniSix/CciniSix.github.io/refs/heads/main/vpn/ccini.yaml
 https://raw.githubusercontent.com/xujw3/collectSub/refs/heads/main/config_v2.txt
+https://raw.githubusercontent.com/kismetpro/NodeSuber/refs/heads/main/out/All_Configs_Sub.txt
