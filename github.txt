@@ -33,3 +33,4 @@ https://raw.githubusercontent.com/CciniSix/CciniSix.github.io/refs/heads/main/vp
 https://raw.githubusercontent.com/xujw3/collectSub/refs/heads/main/config_v2.txt
 https://raw.githubusercontent.com/maimengmeng/collectSub/refs/heads/main/sub/sub_all_url_check.txt
 https://raw.githubusercontent.com/kismetpro/NodeSuber/refs/heads/main/out/All_Configs_Sub.txt
+https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content_all.txt
