@@ -35,3 +35,13 @@ https://raw.githubusercontent.com/maimengmeng/collectSub/refs/heads/main/sub/sub
 https://raw.githubusercontent.com/kismetpro/NodeSuber/refs/heads/main/out/All_Configs_Sub.txt
 https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_content_all.txt
 https://raw.githubusercontent.com/kingowow/Kingo-vpn/refs/heads/main/merged_config.txt
+https://shadowmere.xyz/api/b64sub
+https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
+https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/collected-proxies/clash-meta/all.yaml
+https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml
+https://proxypool1999.banyunxiaoxi.icu/clash/proxies
+https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
+https://raw.githubusercontent.com/abbasdvd3/clash/refs/heads/main/vless/vip
+http://155.248.172.106:12580/clash/proxies
+http://66.42.50.118:12580/clash/proxies
+https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
