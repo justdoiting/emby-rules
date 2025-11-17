@@ -46,3 +46,4 @@ http://155.248.172.106:12580/clash/proxies
 http://66.42.50.118:12580/clash/proxies
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://mm.mibei77.com/{Y}.{m}/{m}.{d}Clasholz.yaml
+https://oneclash.githubrowcontent.com/{Y}/{m}/{Y}{m}{d}.yaml
