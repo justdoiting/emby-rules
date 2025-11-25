@@ -49,3 +49,4 @@ https://mm.mibei77.com/{Y}.{m}/{m}.{d}Clasholz.yaml
 https://oneclash.githubrowcontent.com/{Y}/{m}/{Y}{m}{d}.yaml
 https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Clash_Movaghat
 https://raw.githubusercontent.com/SSgumS/V2RayAggregator/master/Eternity.yml
+https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
