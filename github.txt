@@ -50,3 +50,4 @@ https://raw.githubusercontent.com/SSgumS/V2RayAggregator/master/Eternity.yml
 https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt
 https://raw.githubusercontent.com/Firmfox/Proxify/refs/heads/main/v2ray_configs/seperated_by_protocol/vless.txt
 https://raw.githubusercontent.com/Delta-Kronecker/v2ray-config-collector/refs/heads/main/data/working_url/working_all_urls.txt
+https://gist.githubusercontent.com/gulansong/c410cf71c10665394b9ab3088e39ec6d/raw/base64.txt
