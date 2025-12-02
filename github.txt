@@ -54,3 +54,4 @@ https://gist.githubusercontent.com/gulansong/c410cf71c10665394b9ab3088e39ec6d/ra
 https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless
 https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
+https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/refs/heads/master/sub/proxies.txt
