@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/v
 https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/mihomo.yaml
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
 https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/refs/heads/master/sub/proxies.txt
+https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/subscriptions/xray/normal/mix
