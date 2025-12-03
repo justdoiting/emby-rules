@@ -43,7 +43,6 @@ https://raw.githubusercontent.com/abbasdvd3/clash/refs/heads/main/vless/vip
 http://155.248.172.106:12580/clash/proxies
 http://66.42.50.118:12580/clash/proxies
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
-https://mm.mibei77.com/{Y}.{m}/{m}.{d}Clasholz.yaml
 https://oneclash.githubrowcontent.com/{Y}/{m}/{Y}{m}{d}.yaml
 https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Clash_Movaghat
 https://raw.githubusercontent.com/SSgumS/V2RayAggregator/master/Eternity.yml
@@ -60,3 +59,4 @@ https://raw.githubusercontent.com/kingreevice/actions-own/refs/heads/main/subscr
 https://raw.githubusercontent.com/aee1996a/mysub/refs/heads/main/valid_content_all.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
 https://raw.githubusercontent.com/ResonanceForge/NoMoreWalls/refs/heads/master/list_raw.txt
+https://raw.githubusercontent.com/vpnineh/v2/refs/heads/main/sm.txt
