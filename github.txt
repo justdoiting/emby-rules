@@ -56,3 +56,4 @@ https://raw.githubusercontent.com/ovmvo/SubShare/refs/heads/main/sub/permanent/m
 https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.txt
 https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/refs/heads/master/sub/proxies.txt
 https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/subscriptions/xray/normal/mix
+https://raw.githubusercontent.com/kingreevice/actions-own/refs/heads/main/subscriptions_001.txt
