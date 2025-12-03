@@ -60,3 +60,4 @@ https://raw.githubusercontent.com/aee1996a/mysub/refs/heads/main/valid_content_a
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
 https://raw.githubusercontent.com/ResonanceForge/NoMoreWalls/refs/heads/master/list_raw.txt
 https://raw.githubusercontent.com/vpnineh/v2/refs/heads/main/sm.txt
+https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
