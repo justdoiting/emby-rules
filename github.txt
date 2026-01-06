@@ -7,6 +7,7 @@ https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml
 https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
+https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/ts-sf/fly/refs/heads/main/clash
