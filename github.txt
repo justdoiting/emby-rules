@@ -64,3 +64,4 @@ https://raw.githubusercontent.com/vpnineh/v2/refs/heads/main/sm.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
 https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/refs/heads/main/All_Configs_Sub.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all.txt
