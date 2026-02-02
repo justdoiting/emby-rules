@@ -26,7 +26,6 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/su
 https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt
 https://raw.githubusercontent.com/ATang007ZH/freenode/refs/heads/main/freenode-base64
 https://raw.githubusercontent.com/jayh001/sub_merge/6cccbd72e9806328518aa8de5cbf032bcfd09143/sub/merged_proxies_6.yaml
-https://raw.githubusercontent.com/wangyingbo/v2rayse_sub/refs/heads/main/v2rayclashnodes/v2ray/v2rayclashnodes_v2ray1.txt
 https://raw.githubusercontent.com/OpenSourceVision/NODE/refs/heads/main/out/all.txt
 https://raw.githubusercontent.com/CciniSix/CciniSix.github.io/refs/heads/main/vpn/ccini.yaml
 https://raw.githubusercontent.com/xujw3/collectSub/refs/heads/main/config_v2.txt
@@ -40,7 +39,7 @@ https://raw.githubusercontent.com/MrMohebi/xray-proxy-grabber-telegram/master/co
 https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml
 https://proxypool1999.banyunxiaoxi.icu/clash/proxies
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
-https://raw.githubusercontent.com/abbasdvd3/clash/refs/heads/main/vless/vip
+https://raw.githubusercontent.com/abbasdvd3/clash/refs/heads/main/v2ray/v2ray
 http://66.42.50.118:12580/clash/proxies
 https://raw.githubusercontent.com/NiceVPN123/NiceVPN/main/Clash.yaml
 https://oneclash.githubrowcontent.com/{Y}/{m}/{Y}{m}{d}.yaml
