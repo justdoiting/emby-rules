@@ -64,3 +64,8 @@ https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/refs/heads/main/All_Configs_Sub.txt
 https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/default/all.txt
 https://raw.githubusercontent.com/cook369/proxy-collect/refs/heads/main/dist/85la/v2ray.txt
+https://raw.githubusercontent.com/julong111/noderobot/refs/heads/main/s/merge.yml
+https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/mix
+https://raw.githubusercontent.com/Tyoutakusen/zamie/refs/heads/main/PGFX
+https://raw.githubusercontent.com/jianguogongyong/ssr_subscrible_tool/master/node.txt
+https://raw.githubusercontent.com/tyy840913/auto-sub/refs/heads/main/all.txt
