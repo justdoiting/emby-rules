@@ -69,3 +69,6 @@ https://raw.githubusercontent.com/SoroushImanian/BlackKnight/main/sub/mix
 https://raw.githubusercontent.com/Tyoutakusen/zamie/refs/heads/main/PGFX
 https://raw.githubusercontent.com/jianguogongyong/ceshi_subscrible_tool/refs/heads/master/node.txt
 https://raw.githubusercontent.com/tyy840913/auto-sub/refs/heads/main/all.txt
+https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_1.yaml
+https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_2.yaml
+https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_3.yaml
