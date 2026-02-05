@@ -73,3 +73,4 @@ https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_
 https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_2.yaml
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
+https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
