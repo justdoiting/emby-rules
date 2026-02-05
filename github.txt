@@ -71,3 +71,4 @@ https://raw.githubusercontent.com/jianguogongyong/ceshi_subscrible_tool/refs/hea
 https://raw.githubusercontent.com/tyy840913/auto-sub/refs/heads/main/all.txt
 https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_1.yaml
 https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_proxies_2.yaml
+https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
