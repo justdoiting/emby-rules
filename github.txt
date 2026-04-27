@@ -78,3 +78,4 @@ https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/clash.ya
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/shabane/kamaji/refs/heads/master/hub/merged.txt
 https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/configs.txt
+https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/all.yaml
