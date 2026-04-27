@@ -77,3 +77,4 @@ https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/clash.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/shabane/kamaji/refs/heads/master/hub/merged.txt
+https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/configs.txt
