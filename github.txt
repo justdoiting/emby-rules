@@ -80,3 +80,4 @@ https://raw.githubusercontent.com/shabane/kamaji/refs/heads/master/hub/merged.tx
 https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/configs.txt
 https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/all.yaml
 https://raw.githubusercontent.com/Areral/ScarletDevil/refs/heads/main/sub_all.txt
+https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vless.txt
