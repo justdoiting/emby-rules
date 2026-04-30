@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/rezapix-cmd/vless-checker-55/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/elanski/proxy-preflight/refs/heads/main/configs/available
 https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/refs/heads/master/all
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/refs/heads/master/list_raw.txt
