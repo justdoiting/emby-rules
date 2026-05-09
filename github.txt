@@ -80,3 +80,5 @@ https://raw.githubusercontent.com/dalazhi/v2ray/refs/heads/main/data/all.yaml
 https://raw.githubusercontent.com/Areral/ScarletDevil/refs/heads/main/sub_all.txt
 https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vless.txt
 https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
+https://raw.githubusercontent.com/SpartanDav/NekoBox/refs/heads/main/WhiteBest.txt
+https://nekoboxandroid.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
