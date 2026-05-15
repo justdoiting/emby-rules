@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/main/nodes/nodev
 https://raw.githubusercontent.com/peasoft/NoMoreWalls/refs/heads/master/list_raw.txt
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg
 https://raw.githubusercontent.com/dongchengjie/airport/main/subs/merged/tested_within.yaml
-https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/converted.txt
+https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/ws_tls/proxies/wstls_base64
 https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
 https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt
 https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt
@@ -72,7 +72,6 @@ https://raw.githubusercontent.com/yuan2pro/sub_merge/refs/heads/main/sub/merged_
 https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt
 https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt
 https://raw.githubusercontent.com/shaoyouvip/free/refs/heads/main/all.yaml
-https://raw.githubusercontent.com/qjlxg/aggregator/refs/heads/main/data/clash.yaml
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt
 https://raw.githubusercontent.com/shabane/kamaji/refs/heads/master/hub/merged.txt
 https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/configs.txt
