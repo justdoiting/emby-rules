@@ -85,3 +85,4 @@ https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars-tester-02/refs/heads
 https://raw.githubusercontent.com/SpartanDav/NekoBox/refs/heads/main/WhiteBest.txt
 https://nekoboxandroid.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
 https://raw.githubusercontent.com/rtwo2/FastNodes/dbc70d42098e23bb35885d9a1a1695cfcf56b769/sub/everything.txt
+https://raw.githubusercontent.com/Omid-0x0x0x/vless/main/configs/all_vless_config.txt
