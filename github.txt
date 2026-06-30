@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/lanzm/MetaFetch/refs/heads/master/list.meta.yml
 https://raw.githubusercontent.com/Back-T0/renameProxies/038e288697135dfd594e2e92851362548c21cac7/resource/resource1.yaml
 https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt
 https://raw.githubusercontent.com/elanski/proxy-preflight/refs/heads/main/configs/available
