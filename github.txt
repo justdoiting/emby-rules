@@ -21,7 +21,6 @@ https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base6
 https://raw.githubusercontent.com/fansiphone/pachong-tom/refs/heads/master/list.txt
 https://raw.githubusercontent.com/Supprise0901/Fetch/refs/heads/main/list
 https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/refs/heads/main/All_Configs_Sub.txt
-https://manwhatcanisaymambaout.574545.xyz/freeplsobmkg.html
 https://raw.githubusercontent.com/davudsedft/purvpn/refs/heads/main/links/pc.txt
 https://raw.githubusercontent.com/xiaoji235/airport-free/refs/heads/main/v2ray.txt
 https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt
@@ -37,7 +36,6 @@ https://raw.githubusercontent.com/maimengmeng/mysub/refs/heads/main/valid_conten
 https://raw.githubusercontent.com/kingowow/Kingo-vpn/refs/heads/main/merged_config.txt
 https://shadowmere.xyz/api/b64sub
 https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml
-https://raw.githubusercontent.com/lagzian/SS-Collector/main/mix_clash.yaml
 https://proxypool1999.banyunxiaoxi.icu/clash/proxies
 https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta-2.yaml
 https://raw.githubusercontent.com/abbasdvd3/clash/refs/heads/main/v2ray/v2ray
