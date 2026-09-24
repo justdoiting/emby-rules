@@ -91,3 +91,4 @@ https://raw.githubusercontent.com/Xiaobei-20260617/A/refs/heads/main/output/all_
 https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml
 https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/all.yaml
 https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/AllProtocols.txt
+https://raw.githubusercontent.com/ttbly/freesub/8d43060464e65e54a9ce440748fea1e09ad20f7c/output/clash.yaml
