@@ -88,3 +88,6 @@ https://raw.githubusercontent.com/rtwo2/FastNodes/dbc70d42098e23bb35885d9a1a1695
 https://raw.githubusercontent.com/Omid-0x0x0x/vless/main/configs/all_vless_config.txt
 https://raw.githubusercontent.com/iHWJ/node/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/Xiaobei-20260617/A/refs/heads/main/output/all_nodes/merged_uris.txt
+https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/all.yaml
+https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/AllProtocols.txt
