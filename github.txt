@@ -1,7 +1,6 @@
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/ping_tested.txt
 https://raw.githubusercontent.com/lanzm/MetaFetch/refs/heads/master/list.meta.yml
 https://raw.githubusercontent.com/Back-T0/renameProxies/038e288697135dfd594e2e92851362548c21cac7/resource/resource1.yaml
-https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/refs/heads/main/all_extracted_configs.txt
 https://raw.githubusercontent.com/elanski/proxy-preflight/refs/heads/main/configs/available
 https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/refs/heads/master/all
 https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/refs/heads/master/list_raw.txt
@@ -56,13 +55,12 @@ https://raw.githubusercontent.com/sinavm/SVM/refs/heads/main/subscriptions/xray/
 https://raw.githubusercontent.com/kingreevice/actions-own/refs/heads/main/subscriptions_001.txt
 https://raw.githubusercontent.com/aee1996a/mysub/refs/heads/main/valid_content_all.txt
 https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/Best-Results/proxies.txt
-https://raw.githubusercontent.com/ResonanceForge/NoMoreWalls/refs/heads/master/list_raw.txt
 https://raw.githubusercontent.com/vpnineh/v2/refs/heads/main/sm.txt
 https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/refs/heads/main/sub/all_configs.txt
 https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vless.txt
 https://raw.githubusercontent.com/anaer/Sub/refs/heads/main/proxies.yaml
 https://raw.githubusercontent.com/Twitr/Free-V2ray-Collector/refs/heads/main/All_Configs_Sub.txt
-https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/raw/bypass-all-raw.txt
+https://raw.githubusercontent.com/whoahaow/rjsxrd/refs/heads/main/githubmirror/bypass/bypass-all.txt
 https://raw.githubusercontent.com/cook369/proxy-collect/refs/heads/dist/dist/85la/clash.yaml
 https://raw.githubusercontent.com/julong111/noderobot/refs/heads/main/s/merge.yml
 https://raw.githubusercontent.com/Tyoutakusen/zamie/refs/heads/main/MMDY
@@ -89,6 +87,6 @@ https://raw.githubusercontent.com/Omid-0x0x0x/vless/main/configs/all_vless_confi
 https://raw.githubusercontent.com/iHWJ/node/refs/heads/main/all.yaml
 https://raw.githubusercontent.com/Xiaobei-20260617/A/refs/heads/main/output/all_nodes/merged_uris.txt
 https://raw.githubusercontent.com/yy1588133/proxy-pool/main/clash.yaml
-https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/main/output/all.yaml
+https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/refs/heads/main/output/global.yaml
 https://raw.githubusercontent.com/Eleven1985/Scrape-By-Country/refs/heads/main/configs/protocols/AllProtocols.txt
 https://raw.githubusercontent.com/ttbly/freesub/8d43060464e65e54a9ce440748fea1e09ad20f7c/output/clash.yaml
