@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/yaney01/chromego_merge/refs/heads/main/sub/base64_full.txt
 https://raw.githubusercontent.com/yafeisun/v2raynode/refs/heads/main/result/karing.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/ping_tested.txt
 https://raw.githubusercontent.com/lanzm/MetaFetch/refs/heads/master/list.meta.yml
