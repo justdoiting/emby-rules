@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/yafeisun/v2raynode/refs/heads/main/result/karing.txt
 https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/ping_tested.txt
 https://raw.githubusercontent.com/lanzm/MetaFetch/refs/heads/master/list.meta.yml
 https://raw.githubusercontent.com/Back-T0/renameProxies/038e288697135dfd594e2e92851362548c21cac7/resource/resource1.yaml
