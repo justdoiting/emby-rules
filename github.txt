@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/Areral/ScarletDevil/refs/heads/main/sub_all.tx
 https://raw.githubusercontent.com/wiki/gfpcom/free-proxy-list/lists/vless.txt
 https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt
 https://raw.githubusercontent.com/Shayanthn/V2ray-Tester-Pro/refs/heads/main/subscriptions/clash.yaml
-https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars-tester-02/refs/heads/main/output/all_healthy_proxies.txt
+https://raw.githubusercontent.com/Arefgh72/mayret/refs/heads/main/aggregated.txt
 https://raw.githubusercontent.com/SpartanDav/NekoBox/refs/heads/main/WhiteBest.txt
 https://nekoboxandroid.github.io/uploads/{Y}/{m}/0-{Ymd}.yaml
 https://raw.githubusercontent.com/rtwo2/FastNodes/dbc70d42098e23bb35885d9a1a1695cfcf56b769/sub/everything.txt
